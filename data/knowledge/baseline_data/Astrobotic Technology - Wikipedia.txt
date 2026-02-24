@@ -1,0 +1,439 @@
+American space robotics company
+Astrobotic Technology, Inc.
+Private company
+John P. Thornton
+, Pennsylvania, U.S.
+John P. Thornton (CEO)
+Red Whittaker (Chairman)
+Paul C. O'Brien (
+Board of Directors
+William Readdy (Board of Directors)
+Autonomous robots
+robotic spacecraft
+Number of employees
+130 (As of 2023
+Astrobotic Technology, Inc.
+, commonly referred to as
+private company
+that is developing
+technology for lunar and planetary missions. It was founded in 2007 by
+Carnegie Mellon
+and his associates with the goal of winning the
+Google Lunar X Prize
+The company is based in
+, Pennsylvania. Their first launch occurred on January 8, 2024,
+as part of NASA's
+Commercial Lunar Payload Services
+(CLPS) program. The launch carried the company's
+on board the first flight of the
+rocket from Florida's
+Space Force Station
+The mission was unable to reach the Moon for a soft or hard landing.
+On June 11, 2020, Astrobotic received a second contract for the CLPS
+program. NASA would pay Astrobotic US$199.5 million to take the
+rover to the Moon, targeting a landing in November 2024.
+In July 2024, NASA announced that VIPER had been cancelled.
+citation needed
+In 2007, the team declared its goal to be the first commercial operation to land on the
+That year, the company completed a running prototype of a spacecraft called
+; they also renamed their concept lander from
+On July 28, 2008,
+gave money to Astrobotic for a concept study on "
+moving methods".
+The next year, Astrobotic began to receive Small Business Innovation
+Research (SBIR) funding from NASA totaling over US$795,000 to
+investigate prospecting for lunar resources,
+which eventually led to a concept called
+Polar Excavator
+On October 15, 2010, NASA awarded a contract to Astrobotic for Innovative Lunar Demonstrations Data (ILDD)
+firm-fixed-price
+indefinite-delivery/indefinite-quantity
+contracts with a total value up to US$30.1 million over up to five
+years, and in December 2010, NASA's US$500,000 ILDD project for further
+Lunar Demonstrations Data was awarded to Astrobotic.
+Astrobotic's proposal "Technologies Enabling Exploration of Skylights, Lava Tubes, and Caves" was a Phase I selection for
+NASA Innovative Advanced Concepts
+In April 2011, Astrobotic received a US$599,000 two-year contract to
+develop a scalable gravity offload device for testing rover mobility in
+simulated lunar gravity under NASA's
+Small Business Technology Transfer Program
+In May 2012, David Gump left the position of President of Astrobotic and John Thornton took his place.
+On April 30, 2014, NASA announced that Astrobotic Technology was one of the three companies selected for the
+NASA was negotiating a 3-year no-funds-exchanged Space Act Agreement (SAA) where the
+lander may be involved.
+The CATALYST agreement was extended in October 2017 for 2 years.
+On June 2, 2016, Astrobotic Technology announced a new design of its
+concept lander and named it
+Airbus Defence and Space
+signed a memorandum of understanding to provide engineering support for
+Astrobotic as it refines the lander's design. In December 2016,
+Astrobotic slipped their estimated launch date to 2019 and separated
+Google Lunar X Prize
+On November 29, 2018, Astrobotic was declared eligible to bid on NASA's
+Commercial Lunar Payload Services
+to deliver science and technology payloads to the Moon.
+Astrobotic's successful bid drew a US$79.5 million contract to deliver payloads to
+. Astrobotic set an initial target of 14 payloads to launch starting in July 2021.
+In September 2019,
+signed an agreement to deliver the first UK lunar rover
+on Astrobotic's upcoming mission in 2021 and named this "Spacebit mission one".
+On September 25, 2019, John Thornton of Astrobotic was named CEO
+of the Year by the Pittsburgh Technology Council at the 23rd annual
+Tech50 awards ceremony.
+On January 24, 2021,
+, said that he would place a payload on the
+containing large numbers of digital image files submitted by anyone who contributed US$10 via his online store.
+In June 2021, the maiden flight of
+, carrying the first Peregrine lander as its payload, was delayed to 2022 due to payload and engine testing delays.
+In November 2021, Astrobotic Technology was named one of the
+"World's Best Employers in the Space Industry" by Everything Space, a
+recruitment platform specializing in the
+In September 2022, Astrobotic acquired
+Masten Space Systems
+which had gone into Chapter 11 bankruptcy two months earlier. Masten
+was assigned to be "Astrobotic's Propulsion and Test Department". Among
+its assets is the Broadsword 110 kN 3D-printed aluminum engine, which
+continues to be developed.
+Problems with ground systems during the wet dress rehearsal on
+December 8, 2023, delayed the maiden flight of the Vulcan Centaur until
+The Peregrine lander was launched on January 8, 2024, from
+Florida's Space Force Station LC-41, aboard the maiden flight of Vulcan
+A propellant leak prevented it from reaching the Moon for a soft or hard landing.
+The mission was never able to leave its original (highly elliptical)
+Earth orbit and it ended with a controlled reentry into the Earth's
+atmosphere above the Pacific Ocean on January 18, 2024.
+In 2024, the company announced its ‘Luna Grid’ service. By
+combining the company’s landers and rovers equipped with its Vertical
+Array Solar Panels, the company hopes to be able to provide sustainable
+power on the lunar surface.
+Canceled missions
+In April 2011, Astrobotic contracted with
+lunar north pole
+mission for as early as December 2013. The mission was intended to launch the
+lander and deliver "a small
+and up to about 110 kg (240 lb) of payload to the surface of the Moon".
+The launch date slipped to 2015, and it was first named
+Polar Excavator
+, that would target the
+lunar north pole
+This expedition's rover was to be
+rover was unveiled in October 2012,
+and the company indicated that they were still under contract to SpaceX for a Falcon 9 mission.
+The launch date further slipped to 2016, and Astrobotic contracted with two other GLXP teams including Team
+to share the launch expenses. The agreement was to launch the rovers of all teams on a single
+which would then use the Astrobotic
+lander. After landing on the lunar surface, all teams would have
+competed against each other to achieve the specific GLXP objectives and
+earn the various prizes.
+lander was never built, and
+mission was not launched.
+is a 13 kg (29 lb) rover being developed to carry payloads on the Moon for NASA's
+Commercial Lunar Payload Services
+(CLPS). The US$5.6 million contract was awarded to Astrobotic and its partner Carnegie Mellon University on July 1, 2019.
+was to be launched aboard
+Masten Mission One
+The rover was to carry science payloads yet to be determined and
+developed by other providers, that will focus on scouting and creating
+3D maps of a polar region for signs of
+or lunar pits for entrances to Moon caves.
+The rover would operate mostly autonomously for up to one week.
+Masten Mission One was cancelled after Masten Space Systems went bankrupt in 2022. Thus
+lost its flight to the Moon.
+Peregrine Mission One
+Peregrine Mission One
+Peregrine Mission One, or the Peregrine Lunar Lander, was a lunar
+lander built by Astrobotic Technology, that was selected through NASA's
+Commercial Lunar Payload Services
+(CLPS). It was launched on January 8, 2024 by
+United Launch Alliance
+launch vehicle.
+The lander carried multiple payloads, with total payload mass capacity of 90 kg.
+carried a maximum payload mass of 90 kg (200 lb) during Mission One,
+and it was planned to land on
+Gruithuisen Gamma
+The payload mass for the planned second mission (Mission Two) is capped
+at 175 kg (386 lb), and the Mission Three and later missions
+would carry the full payload capacity of 265 kg (584 lb).
+The Peregrine mission was unable to reach the Moon for a soft or hard landing.
+The mission was never able to leave its original (highly elliptical)
+Earth orbit and it ended with a controlled reentry into the Earth's
+atmosphere on January 18, 2024.
+better source needed
+Griffin Mission One
+The Griffin lander is targeted to land in a region of interest in the Moon's south polar region in September 2025
+The spacecraft is expected to operate for 100 days after its landing. NASA's
+rover was to be the main payload (450 kg)
+until VIPER was canceled in 2024.
+was to investigate permanently shadowed regions of craters located in
+the Moon's south pole, specifically for potential deposits of water ice
+that could be used as resources for future crewed missions. Other
+commercial payloads are on board the Griffin lander, including the Lunar
+Codex's Polaris archive of contemporary culture as one of the
+commercial sub-payloads of Astrobotics' MoonBox initiative.
+In March 2024, Astrobotic hired several industry leaders to
+assist with the Griffin lander after the failure of the Peregrine
+Amidst cost growth and delays to readiness of the rover and the Griffin
+lander, the VIPER program was ended in July 2024, with the rover
+planned to be disassembled and its instruments and components reused for
+other lunar missions.
+The agency still plans to support the Griffin lander to arrive on the
+Moon in fall of 2025, though with a mass simulator in place of the VIPER
+NASA expects the primary objectives of VIPER to be fulfilled by an array of other missions planned for the next several years.
+Griffin Mission Two
+Griffin Mission Two is a planned mission to be launched in Q4 2026.
+planetary rovers
+with a standardized format meant to accelerate the pace of space exploration. The idea is equivalent to that of the successful
+format, with a standardized architecture to assemble new units that will be all compatible, modular, and inexpensive.
+The rover class concept is being developed by Astrobotic Technology in partnership with
+Carnegie Mellon University
+, and it is partly funded by NASA awards.
+principal investigator
+of the program is Andrew Horchler. The first derivative of a CubeRover, a spinoff rover called
+, developed by CMU students, was planned to be deployed on the Moon
+on board Astrobotic's
+lander, but was lost with Peregrine's reentry and never deployed.
+excessive citations
+Exploration of Mars
+Exploration of the Moon
+Foust, Jeff (January 18, 2024).
+"Astrobotic confirms Peregrine reentry plans"
+from the original on February 26, 2024
+Krovel, Trond (December 10, 2007).
+"Astrobotic Technology and Raytheon Collaborate to Pursue Google Lunar X Prize"
+Astrobotic Technology
+(Press release). Lunar Explorers Society.
+from the original on November 21, 2009
+"NASA Sets Coverage for ULA, Astrobotic Artemis Robotic Moon Launch - NASA"
+from the original on January 7, 2024
+Chang, Kenneth (January 7, 2024).
+Rocket's Inaugural Launch Carries Moon Lander to Space - Here's what
+you need to know about United Launch Alliance and the robotic lunar
+spacecraft it is sending to orbit"
+The New York Times
+from the original on January 7, 2024
+"Doomed US lunar lander now headed for Earth: company"
+. United Kingdom. Agence France-Presse. January 14, 2024.
+from the original on January 15, 2024
+"NASA Replans CLPS Delivery of VIPER to 2024 to Reduce Risk"
+. July 18, 2022.
+from the original on July 18, 2022
+Mosher, Dave; Duignan-Cabrera, Anthony (February 22, 2008).
+"Private race to the moon (and money) takes off"
+. Archived from
+on October 17, 2022
+Headed by William 'Red' Whittaker of Carnegie Mellon University, the
+team expects their 'Artemis Lander' and 'Red Rover' spacecraft to touch
+down first on the moon
+Mosher, Dave; Duignan-Cabrera, Anthony (February 22, 2008).
+"Private race to the moon (and money) takes off"
+. Archived from
+on October 17, 2022
+Headed by William 'Red' Whittaker of Carnegie Mellon University, the
+team expects their 'Artemis Lander' and 'Red Rover' spacecraft to touch
+down first on the moon.
+"NASA Awards Contracts for Concepts of Lunar Surface Systems"
+. NASA. July 28, 2008.
+from the original on February 28, 2021
+This article incorporates text from this source, which is in the
+"NASA Contract to Astrobotic Technology Investigates Prospecting for Lunar Resources"
+. Astrobotic Technology. April 23, 2012. Archived from
+on June 30, 2012
+"NASA Selects Companies for Further Lunar Demonstrations Data"
+. NASA. December 20, 2010.
+from the original on June 12, 2012
+This article incorporates text from this source, which is in the
+"2011 NIAC Phase I Selections"
+. NASA. October 21, 2011.
+from the original on October 17, 2022
+This article incorporates text from this source, which is in the
+"NASA Awards Contract for Lunar Gravity Simulation Device"
+. Astrobotic Technology. Archived from
+on May 14, 2012
+Foust, Jeff (May 31, 2012).
+"Transitions for two space entrepreneurs"
+. New Space Journal.
+from the original on March 14, 2016
+"NASA Selects Partners for U.S. Commercial Lander Capabilities"
+(Press release). NASA. April 30, 2014.
+from the original on May 1, 2021
+This article incorporates text from this source, which is in the
+"About Lunar CATALYST"
+. NASA. October 31, 2017.
+from the original on August 29, 2019
+This article incorporates text from this source, which is in the
+"NASA Extends Agreements to Advance Commercial Lunar Landers"
+. NASA. October 31, 2017.
+from the original on June 1, 2019
+This article incorporates text from this source, which is in the
+Foust, Jeff (June 3, 2016).
+"Astrobotic unveils Peregrine lunar lander"
+from the original on October 17, 2022
+Thornton, John (December 19, 2016).
+"Graduating from the Google Lunar X Prize"
+from the original on December 21, 2016
+"NASA Announces New Partnerships for Commercial Lunar Payload Delivery Services"
+(Press release). NASA. November 29, 2018.
+from the original on November 25, 2020
+This article incorporates text from this source, which is in the
+"NASA Selects First Commercial Moon Landing Services for Artemis"
+(Press release). NASA. May 13, 2019.
+from the original on June 3, 2019
+This article incorporates text from this source, which is in the
+Berger, Eric (May 31, 2019).
+"NASA picks three companies to attempt Moon landings in 2020 and 2021"
+. Ars Technica.
+from the original on February 15, 2020
+"The UK is sending a robot spider to the moon"
+The Independent
+. October 10, 2019.
+from the original on April 8, 2020
+"Astrobotic, Spacebit agree to land first commercial payload on Moon"
+. Aerospace Technology. September 25, 2019.
+from the original on January 28, 2020
+O'Toole, Bill (September 27, 2019).
+"Who won the Tech 50 Awards?"
+. NEXT Pittsburgh.
+from the original on March 24, 2020
+Jameson, Helen (October 1, 2019).
+"Astrobotic's John Thornton Named 'CEO of the Year' at the Pittsburgh Tech50 Awards"
+. SpaceWatch.Global.
+from the original on March 24, 2020
+Donaldson, Jimmy (January 24, 2021).
+"For US$10 I'll put whatever picture you want, on the moon!"
+from the original on January 26, 2021
+Parsonson, Andrew (January 24, 2021).
+"YouTuber MrBeast purchases space aboard NASA-sponsored Astrobotic Moon mission"
+. Rocket Rundown. Archived from the original on January 24, 2021
+Berger, Eric (June 25, 2021).
+"Rocket Report: China to copy SpaceX's Super Heavy? Vulcan slips to 2022"
+. Ars Technica.
+from the original on June 29, 2021
+"World's Best Employers in the Space Industry"
+Everything Space
+from the original on November 13, 2021
+"Another day, another delay to first Vulcan Centaur launch"
+from the original on December 11, 2023
+"Final Update for Peregrine Mission One"
+. January 19, 2024.
+from the original on January 20, 2024
+Wattles, Jackie (January 18, 2024).
+"First US spacecraft to attempt moon landing in decades burns up after failed mission"
+Cowing, Keith (July 25, 2023).
+"Astrobotic Wins $34.6M For Power Demo Mission On The Moon"
+Klotz, Irene (February 8, 2011).
+"SpaceX Lands Contract To Fly To Moon"
+. Aviation Week.
+from the original on February 15, 2016
+based Astrobotic Technology, a Carnegie Mellon University spin-off
+company, has signed a launch services contract with Space Exploration
+Technologies (SpaceX) for a Falcon 9 launch vehicle to deliver a lander,
+small rover and up to about 240 lbs of payload to the surface of the
+"Astrobotic's Mission to the Moon Releases Payload User's Guide"
+. X Prize Foundation. March 3, 2011. Archived from
+on July 26, 2011
+"Icebreaker: Prospecting the Moon"
+. Astrobotic Technology. Archived from
+on May 22, 2012
+"Rover's Exploration May Lead to Deep Space"
+. NASA. June 22, 2012.
+from the original on July 26, 2019
+This article incorporates text from this source, which is in the
+Spencer, Malia (May 29, 2012).
+"SpaceX success brings Pittsburgh space startup closer to mission"
+Pittsburgh Business Times
+from the original on June 23, 2016
+"Astrobotic Unveils Lunar Polar Robot"
+. Astrobotic Technology. October 8, 2012. Archived from
+on October 14, 2012
+Grush, Loren (October 27, 2011).
+"Race to Mine the Moon Heats Up"
+from the original on September 29, 2015
+planned to launch in late 2014 or early 2015
+"Two Google Lunar XPRIZE Teams Announce Rideshare Partnership For Mission To The Moon In 2016"
+(Press release). X Prize Foundation. February 23, 2015. Archived from
+on February 27, 2015
+"Google Lunar XPrize teams partner for a 2016 SpaceX moonshot"
+. CNET. February 23, 2015.
+from the original on March 2, 2016
+Astrobotic Awarded US$5.6 Million NASA Contract to Deliver Autonomous Moon Rover
+March 6, 2021, at the
+Wayback Machine
+Astrobotic July 1, 2019
+Astrobotic gets US$5.6m NASA contract to develop MoonRanger rover
+October 9, 2020, at the
+Wayback Machine
+Brittany A. Roston,
+Boyle, Alan (April 8, 2020).
+"NASA picks Masten Space Systems to deliver science to the moon's south pole"
+from the original on June 29, 2021
+Astrobotic awarded NASA funding to build autonomous rover
+October 1, 2021, at the
+Wayback Machine
+Pittsburgh Business Times
+NASA Selects Carnegie Mellon, Astrobotic To Build Lunar Robot
+March 10, 2021, at the
+Wayback Machine
+Byron Spice, Carnegie Mellon University July 3, 2019
+Belam, Martin (January 8, 2024).
+"Nasa Peregrine 1 launch: Vulcan Centaur rocket carrying Nasa moon lander lifts off in Florida – live updates"
+from the original on January 8, 2024
+"NASA - NSSDCA - Spacecraft - Details"
+nssdc.gsfc.nasa.gov
+from the original on December 4, 2023
+"Peregrine Lander"
+. Astrobotic Technology.
+from the original on February 23, 2017
+"Astrobotic - Payload User Guide"
+. Astrobotic Technology. 2018.
+from the original on June 3, 2019
+"Spacebit forms partnership, prepares to send tiny rover to the moon"
+. SpaceNews. October 24, 2019.
+from the original on October 17, 2022
+"Final Update for Peregrine Mission One"
+. January 19, 2024.
+from the original on January 20, 2024
+Foust, Jeff (July 18, 2024).
+"NASA cancels VIPER lunar rover"
+"Astrobotic wins NASA contract to deliver VIPER lunar rover"
+. SpaceNews. June 11, 2020.
+from the original on October 17, 2022
+"NASA Ends VIPER Project, Continues Moon Exploration - NASA"
+"Lunar Codex: digitised works of 30,000 artists to be archived on moon"
+. August 1, 2023.
+from the original on November 2, 2023
+Foust, Jeff (March 26, 2024).
+"Astrobotic hires space industry veterans to help with Griffin lander"
+"NASA Ends VIPER Project, Continues Moon Exploration - NASA"
+Tingley, Brett (July 17, 2024).
+"NASA cancels $450 million VIPER moon rover due to budget concerns"
+from the original on July 17, 2024
+Boyle, Alan (July 17, 2024).
+"NASA Stops Work on VIPER Moon Rover, Citing Cost and Schedule Issues"
+from the original on July 17, 2024
+NASA Video (July 17, 2024).
+Exploration Science Program Update (July 17, 2024)
+(Press Conference)
+Chapla, Alivia (July 23, 2024).
+"Orbital Space Announces Historic First Privately Funded Lunar Mission from the Arab World"
+Campbell, Lloyd (March 18, 2018).
+"Astrobotic wins NASA award to produce small lunar rover"
+. Spaceflight Insider. Archived from
+on August 14, 2019
+"Final Update for Peregrine Mission One"
+. January 19, 2024.
+from the original on January 20, 2024
+David, Leonard (March 16, 2018).
+"This Tiny Private CubeRover Could Reach the Moon by 2020"
+from the original on December 25, 2018
+Jost, Kevin (May 8, 2017).
+"Astrobotic to develop CubeRover standard for planetary surface mobility"
+. Autonomous Vehicle Technology.
+from the original on March 30, 2019
+"Astrobotic Awarded US$79.5 Million Contract to Deliver 14 NASA Payloads to the Moon"
+(Press release). Astrobotic Technology. May 31, 2019. Archived from
+on September 4, 2020
+Spice, Byron (May 14, 2020).
+"Iris Lunar Rover Meets Milestone for Flight"
+. Carnegie Mellon University News.
+from the original on May 22, 2020
+Official website

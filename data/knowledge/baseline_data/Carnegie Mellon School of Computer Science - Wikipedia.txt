@@ -1,0 +1,316 @@
+School for computer science in the United States
+SCS at Carnegie Mellon
+School of Computer Science
+Carnegie Mellon University
+, Pennsylvania, US is a school for
+computer science
+established in 1988.  It has been consistently ranked among the best computer science programs over the decades. As of 2024
+U.S. News & World Report
+ranks the graduate program as tied for No. 1 with
+Massachusetts Institute of Technology
+Stanford University
+University of California, Berkeley
+The Gates-Hillman Complex, home to Carnegie Mellon University's School of Computer Science.
+Researchers from Carnegie Mellon School of Computer Science have made fundamental contributions to the fields of
+artificial intelligence
+computer networks
+distributed systems
+parallel processing
+programming languages
+computational biology
+language technologies
+human–computer interaction
+software engineering
+Herbert A. Simon
+, in conjunction with the faculty from the Graduate School of Industrial Administration (GSIA, renamed
+Tepper School of Business
+in 2004), staff from the newly formed Computation Center, and key
+administrators created the Computer Science Department, one of the first
+such departments in the nation. Their mission statement was "to
+cultivate a course of study leading to the
+computer science
+, a program that would exploit the new technology and assist in establishing a discipline of
+computer science
+The educational program, formally accepted in October 1965, drew its
+first graduate students from several existing academic disciplines:
+electrical engineering
+, and the interdisciplinary Systems and Communications Sciences program in the
+Graduate School of Industrial Administration
+. The department was housed within the
+Mellon College of Science
+With support from Newell, Simon,
+the computer science department began a two-year status as a "floating"
+department in the early months of 1986.  Then, the Department began to
+grow, both academically and financially. In 1988, the School of Computer
+Science was established, among the first such schools in the country.
+The Computer Science Department was the original department within the
+Structure in the 1970s
+During the 1970s the Computer Science Department offered only a PhD
+study program, with no master's degree as an intermediate step.  The PhD
+program required a minimum of six years of residency.  It was called
+the "do or die" program among the graduate students, because a student
+could not drop a PhD and receive a master's degree.  It had quickly
+focused on computer networking, operating systems (
+Organizational units
+Ray and Stephanie Lane Computational Biology Department
+Computer Science Department (CSD)
+Human–Computer Interaction Institute
+Software and Societal Systems Department (S3D): Its research and education focus is on
+software systems
+, which spans not only classical
+software engineering
+but also topics such as
+. S3D is a distinct entity from the
+Software Engineering Institute
+(SEI). SEI is a
+, which is sponsored by the
+U.S. Department of Defense
+and does not offer educational programs.
+Language Technologies Institute
+Machine Learning Department (MLD)
+Robotics Institute
+Gates and Hillman Centers
+Gates and Hillman Centers
+memorial bridge has LEDs that glow different colours at night.
+The Gates Center for Computer Science and the Hillman Center for
+Future-Generation Technologies are home to much of the School of
+Computer Science. The $98 million complex was opened in 2009.
+It has 217,000-square-foot (20,200 m
+) of floor space, including about 310 offices, 11 conference rooms, 32 labs, 8,000 square feet (740 m
+) of project space and the Planetary Robotics Center. It also houses 12 classrooms, including a 250-seat auditorium.
+Additionally, the Gates Center connects to the Purnell Center, which houses the School of Drama, via the
+Memorial Footbridge. The bridge represents Professor Pausch's own
+devotion to linking computer science and entertainment, as he was a
+co-founder of Carnegie Mellon's
+Entertainment Technology Center
+Mack Scogin Merril Elam
+, Georgia were the lead architects.
+The Gates and Hillman Centers have received
+Gold Certification.
+Carnegie Mellon University traditions
+Carnegie Mellon's
+, now in their 14th year, are hosted by the School of Computer Science during every
+Spring Carnival
+celebration. The Mobots (short for
+follow a slalom course painted in the sidewalk outside of Wean Hall.
+The Mobot Races used to include a MoboJoust competition, but it has not
+been held since 2002
+to avoid damaging the Mobots.
+is a yearly celebration of computer science that
+started in 2003. The event features a variety of activities, including
+exhibits, workshops and games, in addition to an evening talent show.
+SCS research professor
+is credited with the invention of the smiley face
+He suggested the emoticon on an electronic board in 1982 as a way for
+board readers to know when an author was joking. The text of Fahlman's
+original post was lost for nearly 20 years but was later recovered from
+19-Sep-82 11:44    Scott E  Fahlman             :-)
+From: Scott E  Fahlman <Fahlman at Cmu-20c>
+I propose that the following character sequence for joke markers:
+Read it sideways.  Actually, it is probably more economical to mark
+things that are NOT jokes - given current trends.  For this, use
+Tartan Racing is a collaboration between Carnegie Mellon and
+General Motors Corporation
+that competes in the
+DARPA Grand Challenge
+. The Grand Challenge is a competition for
+driverless cars
+Defense Advanced Research Projects Agency
+(DARPA). Tartan Racing is led by Carnegie Mellon
+William L. "Red" Whittaker
+In 2007, Tartan Racing won the
+DARPA Urban Challenge
+in which 11 autonomous ground vehicles raced over urban roadways. In
+the challenge, team vehicles were required to obey all California
+driving laws, share the road with other drivers and robotic cars, and
+complete the course in under six hours. Tartan Racing won the $2 million
+cash prize with Boss, a reworked 2007
+. Averaging about 14 miles (23 km) an hour for a 55-mile (89 km) trip, Boss beat the second-place team,
+Racing, by just under 20 minutes.
+SCS honors and awards
+The School established a number of honors and awards.
+SCS Endowed Chairs
+Finmeccanica Chair
+A. Nico Habermann Chair in the School of Computer Science
+Litton Faculty Fellows
+Allen Newell Award for Research Excellence
+Herbert A. Simon Award for Teaching Excellence in Computer Science
+The Robert Doherty Prize for Excellence in Education
+Carnegie Mellon University Undergraduate Academic Advising Award
+Faculty members from the School of Computer Science have received
+international recognition for achievements within their fields. These
+honors include memberships and fellowships in the
+National Academy of Sciences
+National Academy of Engineering
+American Association for the Advancement of Science
+Association for Computing Machinery
+Institute for Electrical and Electronic Engineers
+Alfred P. Sloan Foundation
+MacArthur Fellowship Program
+Guggenheim Fellowship Program
+Notably, thirteen SCS faculty and alumni have won the
+A. M. Turing Award
+Association for Computing Machinery
+'s most prestigious award,
+often called the "Nobel Prize of computing." These include
+Edmund M. Clarke
+of the recent active faculty, in addition to Emeritus Faculty
+and former faculty
+Geoffrey Hinton
+Notable faculty
+was a professor of
+computer science
+human-computer interaction
+and design. Pausch was also a best-selling author, who became known around the world after he gave
+"The Last Lecture" speech
+on September 18, 2007 at Carnegie Mellon. Pausch was instrumental in the development of
+, a computer teaching tool. He also co-founded Carnegie Mellon's
+Entertainment Technology Center
+. Randy Pausch died on July 25, 2008.
+Professor of Computer Science in the Institute for Software Research at
+Carnegie Mellon University
+Shaw published seminal work on software engineering, and has lately
+become well known for her work on computer science education. Shaw was
+National Medal of Technology and Innovation
+on November 21, 2014.
+is a Consulting Professor in the Computer Science Department, where he also received his PhD in 2005. Von Ahn was named a
+MacArthur Fellow
+in 2006 (called the "genius" grant).
+He also created Games With a Purpose, a website where users can play
+games to help train computers to solve complicated problems, in addition
+William L. "Red" Whittaker
+is a roboticist and research professor of robotics at Carnegie Mellon who led the Tartan Racing team to victory in the 2007
+DARPA Grand Challenge
+. He is also leading a team of Carnegie Mellon students to win the
+Google Lunar X Prize
+Whittaker is the Fredkin Professor of Robotics at the Robotics
+Institute and the director of the Robotics Institute's Field Robotics
+since its creation in 1983.  Whittaker earned his master's and doctoral
+degrees in Civil Engineering from Carnegie Mellon in the late 1970s.
+is the University Professor of Computer Science and Robotics and Moza Bint Nasser Chair at the School of Computer Science at
+Carnegie Mellon University
+. His areas of interest include
+artificial intelligence
+human-computer interaction
+. He received the ACM Turning award in 1994. He received the French
+Legion of Honour
+award in 2001. He was also awarded the Honda Prize in 2005, and the
+Vannevar Bush Award
+Reddy was the founding directory of the
+Robotics Institute
+and the Dean of School of Computer Science. He was one of the founders of the American Association for Artificial Intelligence
+and was its President from 1987 to 1989.
+is a U.A. and Helen Whitaker University Professor of Computer Science
+and Robotics. He is the director of the Quality of Life Technology
+Engineering Research Center at Carnegie Mellon. His main areas of
+interest include
+computer vision
+, manipulators,
+autonomous mobile robots
+is a research professor at the Robotics Institute with interests in
+artificial intelligence
+He worked in the RI's Mobile Robot Lab, a research space designed to
+produce robots able to move through intricate indoor and outdoor areas.
+He also helped develop
+Moravec's paradox
+in the 1980s, which states that it is more difficult for computers to learn basic human instincts than human reason.
+Manuela M. Veloso
+is the Herbert A. Simon Professor at the School of Computer Science,
+Carnegie Mellon University. She is the President of the International
+RoboCup Federation that she co-founded and the President Elect of the
+Association for the Advancement of Artificial Intelligence. She is a
+fellow of the American Association for Artificial Intelligence, a fellow
+of the American Association for the Advancement of Science, and a
+Fellow of IEEE.  Her research focus on the scientific and engineering
+challenges of creating teams of intelligent agents in complex, dynamic,
+and uncertain environments, in particular adversarial environments, such
+as robot soccer, that Cooperate, Observe the world, Reason, Act, and
+Learn. She currently researches and develops effective indoor mobile
+service robots aiming at contributing to a multi-robot, multi-human
+symbiotic relationship, in which robots and humans coordinate and
+cooperate as a function of their limitations and strengths.
+is the Bruce Nelson Professor of Computer Science and a
+winner. His wife
+are also professors in the School of Computer Science.
+is the FORE Systems Professor in the Institute for Software Research and served as the Chief Technologist at the
+Federal Trade Commission
+Alexander Waibel
+has introduced cross-lingual communication systems, such as consecutive
+and simultaneous interpreting systems on a variety of platforms. In
+fundamental research on machine learning, he is known for the Time Delay
+Neural Network, the first Convolutional Neural Network trained by
+gradient descent, using backpropagation. He is a member of the German
+National Academy of Science and a Fellow of the IEEE, ISCA and the
+Explorers Club. Waibel is the recipient of the IEEE James L. Flanagan
+Speech and Audio Processing and of the ACM ICMI Sustained
+Achievement Award.
+Kathleen Carley
+is a computational social scientist and a professor at the Software and Societal Systems Department.
+is a professor at the Software and Societal Systems Department.
+is a Founders University Professor of Computer Science Emeritus and former Dean of the School of Computer Science.
+Daniel Siewiorek
+is the Buhl University Professor Emeritus at CMU.
+Michael Ian Shamos
+is a Distinguished Career Professor in the Software and Societal Systems Department and Language Technologies Institute.
+Ray and Stephanie Lane Computational Biology Department
+Robotics Institute
+Software Engineering Institute
+Language Technologies Institute
+Human-Computer Interaction Institute
+"US News | Best Computer Science Schools"
+"A history of SCS | SCS25 - Carnegie Mellon University School of Computer Science"
+Carnegie Mellon University.
+"Feb. 20: Henry L. Hillman Foundation Gives Carnegie Mellon $10 Million For Research Building in New Computer Science Complex"
+. Archived from
+"SCS Complex Information and Blog » Overview"
+. Archived from
+Heinrichs, Allison M. (September 19, 2007).
+"Professor diagnosed with cancer offers his final words for the CMU community"
+Pittsburgh Tribune-Review
+. Archived from
+University, Carnegie Mellon.
+"Press Release: Carnegie Mellon's Gates and Hillman Centers Awarded LEED Gold Certification - News - Carnegie Mellon University"
+"Mobot: Winners"
+. Archived from
+on March 15, 2009
+"SCS Day 2015 - A Celebration of Diversity in SCS"
+"SMILEY:31 YEARS OLD AND NEVER LOOKED HAPPIER!"
+"Tartan Racing @ Carnegie Mellon"
+tartanracing.org
+Carnegie Mellon University.
+"Nov. 4: Carnegie Mellon Tartan Racing Wins $2 Million DARPA Urban Challenge"
+. Archived from
+"SCS: Achievements"
+. Cs.cmu.edu. Archived from
+on June 23, 2012
+"SCS Faculty Awards"
+"A.M. Turing Award"
+. Archived from
+"SCS FACULTY AWARDS"
+"Untitled Document"
+"President Obama Honors Nation's Top Scientists and Innovators"
+. 2014-10-03 – via
+National Archives
+2011-06-09 at the
+Wayback Machine
+"Google to Finance Moon Challenge Contest"
+washingtonpost.com
+"William L. "Red" Whittaker"
+. Archived from
+. Archived from
+"Origins of the American Association for Artificial Intelligence"
+verification needed
+"Foundations and Grand Challenges of Artificial Intelligence"
+verification needed
+"Robotics Institute: Mobile Robot Lab"
+. Archived from
+on May 14, 2008
+Further reading
+Fenton, Edwin (2000).
+Carnegie Mellon 1900–2000: A Centennial History
+. Pittsburgh: Carnegie Mellon University Press.
+Wikimedia Commons has media related to
+Gates-Hillman Complex
+Official website
+40.44371°N 79.94443°W
+40.44371; -79.94443

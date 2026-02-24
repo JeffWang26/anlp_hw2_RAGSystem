@@ -1,0 +1,127 @@
+Pittsburgh Supercomputing Center
+high performance computing
+and networking center founded in 1986 and one of the original five
+NSF Supercomputing Centers
+PSC is a joint effort of
+Carnegie Mellon University
+University of Pittsburgh
+In addition to providing a family of
+-optimized supercomputers with unique shared memory architectures, PSC features the
+National Institutes of Health
+-sponsored National Resource for Biomedical Supercomputing,
+an Advanced Networking Group that conducts research on network performance and analysis,
+and a STEM education and outreach program supporting K-20 education.
+In 2012, PSC established a new Public Health Applications Group that
+will apply supercomputing resources to problems in preventing,
+monitoring and responding to epidemics and other public health needs.
+The Pittsburgh Supercomputing Center provides university, government,
+and industrial researchers with access to several of the most powerful
+systems for high-performance computing, communications and data-handling
+and analysis available nationwide for unclassified research.
+As a resource provider in the
+Extreme Science and Engineering Discovery Environment
+National Science Foundation
+network of integrated advanced digital resources, PSC works with its
+XSEDE partners to harness the full range of information technologies to
+enable discovery in U.S. science and engineering.
+PSC is a leading partner in XSEDE.
+PSC-scientific co-director Ralph Roskies is a co-principal investigator
+of XSEDE and co-leads its Extended Collaborative Support Services.
+Other PSC staff lead XSEDE efforts in Networking, Incident Response,
+Systems & Software Engineering, Outreach, Allocations Coordination,
+and Novel & Innovative Projects. This NSF-funded program provides
+U.S. academic researchers with support for and access to
+leadership-class computing infrastructure and research.
+The National Resource for Biomedical Supercomputing, sponsored by
+the National Institutes of Health, develops new algorithms, performs
+original research, and conducts training workshops, in addition to
+fostering collaborative projects and providing access to supercomputing
+resources to the national biomedical research community.
+In partnership with the DOE National Energy Technology
+Laboratory, Carnegie Mellon University, the University of Pittsburgh,
+West Virginia University,  and Waynesburg College, PSC provides
+resources to the SuperComputing Science Consortium, a regional
+partnership to advance energy and environment technologies through the
+application of high performance computing and communications.
+National Science Foundation
+National Institutes of Health
+Commonwealth of Pennsylvania
+Current high-performance computing capabilities
+Bridges-2: Similar to Bridges, below, but with updated architecture and hardware components
+Bridges: A general purpose Hewlett Packard Enterprise system with
+27,400 cores, 88 NVIDIA Volta V100s, 32 NVIDIA Tesla K80s, and 64 NVIDIA
+Tesla P100s. This system is shared with XSEDE researchers, and provides
+Regular, Large, and Extreme Shared Memory nodes, including some with
+Bridges was decommissioned in early 2021 and was replaced by Bridges-2.
+Blacklight: An SGI
+coherent shared memory machine with 512 eight-core Intel Xeon 7500
+processors (4,096 cores) with 32 terabytes of memory. It is partitioned
+into two connected 16-terabyte coherent shared-memory systems — creating
+the two largest coherent shared-memory systems in the world.
+: A massively-parallel computer made by D.E. Shaw Research. It has 512-processors and is specialized for
+molecular dynamics
+Sherlock: A YarcData uRiKA (Universal RDF Integration Knowledge
+Appliance) data appliance with PSC enhancements, Sherlock was designed
+to analyze graph data—data sets consisting of nodes connected by
+arbitrary edges—far more efficiently than a traditional computer.
+Massive multithreading, a shared address space, sophisticated memory
+optimizations, a productive user environment, and support for
+heterogeneous applications enables it to tackle an important family of
+problems that are more limited by effective use of memory than by
+processing speed.
+Data Supercell: A disk-based, archival storage system with
+high-performance access. The current capacity is 4 Petabytes. The Data
+Supercell storage system is managed by the SLASH2 file system software,
+which was developed at PSC. SLASH2 and the Data Supercell hardware
+architecture enables scaling well beyond the current capacity.
+Three Rivers Optical Exchange (3ROX): A high performance, large
+bandwidth network, 3ROX is a regional network aggregation point
+providing high speed commodity and research network access to sites in
+western and central Pennsylvania. The primary focus for the Exchange
+staff is providing network connectivity to the university community.
+They also provide network services to both community (K-12, government)
+and commercial entities in western Pennsylvania.
+National Science Foundation
+Bigben (computer)
+John. “Pittsburgh Supercomputing Center Celebrates Its 15th Birthday.”
+Carnegie Mellon University. 6 June 2003. 31 Mar. 2004. <
+http://www.cmu.edu/cmnews/extra/060615_psc.html
+The Pennsylvania Center for the Book - PGH Supercomputing Center
+. Pabook.libraries.psu.edu. Retrieved on 2013-07-17.
+Stimulus funds bring supercomputer to Pittsburgh area - Pittsburgh Post-Gazette
+. Post-gazette.com (2010-05-05). Retrieved on 2013-07-17.
+"Archived copy"
+. Archived from
+PSC to Develop Pilot Program in Math and Science Teaching
+. HPCwire (2011-03-15). Retrieved on 2013-07-17.
+Shawn Brown to Direct New Public Health Group at PSC
+. Psc.edu (2013-02-05). Retrieved on 2013-07-17.
+Mission/History
+. Psc.edu (2013-07-12). Retrieved on 2013-07-17.
+UT Given $18 Million to Link Nation's Supercomputers
+. HPCwire (2011-07-26). Retrieved on 2013-07-17.
+CMU, PSC Awarded $9.3 Million for Bio Systems Modeling
+. HPCwire (2012-11-30). Retrieved on 2013-07-17.
+Pittsburgh Supercomputing Center teams up with WVU and DOE
+. Old.post-gazette.com (1999-09-01). Retrieved on 2013-07-17.
+PSC: Bridges-2 Overview.
+psc.edu. Retrieved on 2021-12-08.
+Bridges User Guide
+. portal.xsede.org. Retrieved on 2019-05-07.
+PSC: Bridges to Bridges-2 Transition.
+psc.edu.  Retrieved on 2021-12-08.
+Pittsburgh Supercomputing Center Boots Up 'Blacklight'
+. HPCwire (2010-10-11). Retrieved on 2013-07-17.
+Pittsburgh Supercomputing Center Presents Sherlock, a YarcData uRiKa
+System for Unlocking the Secrets of Big Data - Yahoo! Finance
+. Finance.yahoo.com (2012-11-07). Retrieved on 2013-07-17.
+Pittsburgh Supercomputing Center Deploys Disk-Based Data Repository
+. HPCwire (2012-08-21). Retrieved on 2013-07-17.
+Pittsburgh Supercomputing Center Receives $1.5M Network Infrastructure Award
+. HPCwire (2010-09-09). Retrieved on 2013-07-17.
+Pittsburgh Supercomputing Center
+Extreme Science and Engineering Discovery Environment (XSEDE) of NSF
+National Resource for Biomedical Supercomputing
+University of Pittsburgh
+Carnegie Mellon University
+Westinghouse Electric Corporation

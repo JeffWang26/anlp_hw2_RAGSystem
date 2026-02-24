@@ -1,0 +1,269 @@
+School of economic thought
+Carnegie School
+school of economic thought
+originally formed at the Graduate School of Industrial Administration (GSIA), the current
+Tepper School of Business
+, of Carnegie Institute of Technology, the current
+Carnegie Mellon University
+, especially during the 1950s to 1970s.
+Faculty at the Graduate School of Industrial Administration are known for formulating two "seemingly incompatible"
+bounded rationality
+rational expectations
+. Bounded rationality was developed by
+Herbert A. Simon
+Oliver Williamson
+. Rational expectations were developed by
+and later translated into
+macroeconomic theory
+Robert Lucas Jr.
+Leonard Rapping
+Depending on author and context, the term "Carnegie School" can
+refer to either both branches or only the bounded rationality branch,
+sometimes with the qualifier "Carnegie School of organization theory".
+The commonality between both branches is the use of
+dynamic optimization
+techniques derived from
+production theory
+and the early use of computers to solve planning and optimization
+problems. Along with other, mostly Midwestern universities, the rational
+expectations branch is considered part of
+freshwater economics
+, while the bounded rationality branch has been credited with originating
+behavioral economics
+economics of organization
+Graduate School of Industrial Administration
+Carnegie Institute of Technology
+Pittsburgh, Pennsylvania
+was founded in the late 1940s, after receiving a grant by
+William Larimer Mellon Sr.
+to enable graduate instruction in business and economics for the
+engineers the CIT already produced. This superseded an initial attempt
+to "restart" the economics department, which had lapsed during
+. The founding dean was
+George Leland Bach
+, initial faculty hires included
+William W. Cooper
+Herbert A. Simon
+. Other early appointees were
+Abraham Charnes
+Franco Modigliani
+GSIA was set up as a "new look" business school, moving beyond the case-based method of instruction popularized by
+Harvard Business School
+, to incorporate scientific methods of management. The economics faculty was folded into the business school.
+In 1956, Carnegie Tech obtained an
+computer, jointly acquired by GSIA and the engineering and mathematics
+departments, but housed in the basement of the business school. Along
+with the computer,
+joined the faculty, with Perlis being put in charge of the computing facilities.
+Edward Feigenbaum
+at the time a student at Carnegie Tech, was sufficiently intrigued to
+transfer to GSIA. All three, along with Herb Simon, would later receive
+for their contributions to
+computer science
+The focus of the research was on
+organizational behavior
+and the application of
+decision analysis
+management science
+as well as theories such as
+bounded rationality
+to the understanding of the organization and the firm.
+"The astonishing thing about Carnegie is that it joined
+two fundamental and seemingly incompatible strands of research. One
+dealt with bounded rationality, organization theory, and behavioral
+economics. The leading members of that group were Herbert Simon, Richard
+Cyert, and James March. The second strand dealt with rational
+expectations and efficient markets. Members of that group include Franco
+Modigliani (…), John Muth, Merton Miller, and Allan Meltzer, to be
+joined later by Robert Lucas (…), Thomas Sargent (…), and Edward
+Prescott." — Oliver Williamson
+“Carnegie Tech was an amazing place at the time. New
+ideas of all kinds were in the air. They were not always consistent with
+each other, as in the case of the conflict between John Muth’s
+suggestion about how to model expectations as “rational” and [Herbert]
+Simon’s notion of “bounded rationality.” We students benefited from the
+lively debates among the faculty. We were also encouraged by the faculty
+to get involved in the research process even before we had mastered the
+details of the literature. In my last two years, I took courses from
+Robert Lucas and Oliver Williamson with fellow student Ed Prescott, all
+of whom are now Laureates. In retrospect, it was obviously a very
+special educational experience.” –
+Nobel biographical (2010).
+GSIA faculty with notable contributions to their field included later
+Nobel Laureates in Economic Sciences
+Herbert A. Simon
+Franco Modigliani
+Robert Lucas Jr
+Edward C. Prescott
+Finn E. Kydland
+(jointly 2004), and
+Lars Peter Hansen
+(2013). In addition, later Nobel Laureates
+Oliver Williamson
+(2010) attended GSIA as Ph.D. students.
+while heavily favored to receive the Prize for his pioneering work on
+rational expectations, was not included in 1995 or any other year
+The organizational branch included
+along with later GSIA dean and university president
+and graduate students Oliver Williamson,
+William Starbuck
+A number of later
+recipients also had their roots at GSIA, before the
+Carnegie Mellon School of Computer Science
+was founded in 1968. These include
+(1966, the inaugural recipient),
+Herbert A. Simon
+(jointly 1975), and
+Edward Feigenbaum
+(1994, jointly with
+The interdisciplinary approach featured faculty at Carnegie Mellon's modern departments of
+economics, business
+computer science
+psychology, statistics and data science
+social and decision sciences
+Herbert Simon (1988) and his frequent collaborators Abraham
+Charnes and William Cooper (both 1982, jointly with Carnegie physicist
+Richard J. Duffin
+) also received the
+John von Neumann Theory Prize
+for their pioneering contributions to
+operations research
+management science
+Carlton E. Lemke
+John Forbes Nash Jr.
+, a Carnegie undergraduate), who wrote his dissertation at GSIA under Abraham Charnes, preceded all four.
+Notable members of the Carnegie School
+George Leland Bach
+University of Chicago
+1940, economics) was the founding dean of GSIA when he was tasked in
+1946 to restart economics education at Carnegie. He left in 1962 for
+Stanford University
+, with the brief to make Stanford’s business school look more like GSIA.
+William W. Cooper
+(PhD unfinished
+Columbia University
+1942, business) joined Bach from Chicago as the second faculty on the
+yet-to-founded new business school in 1946. Considered one of the
+Management Science
+jointly with his long-time collaborator Charnes. Became dean of the new
+School of Urban and Public Affairs in 1969, leaving Carnegie in 1975
+for Harvard and later Texas. Herb Simon’s college dormmate.
+Herbert A. Simon
+(PhD University of Chicago 1943, political science) joined the
+inaugural team of academics at GSIA in 1949, initially as the director
+of undergraduate programs. Stayed at Carnegie until his death in 2001,
+but left GSIA in 1970 for a joint psychology and computer science
+appointment. Received the Turing Award in 1975, jointly with Alan
+Newell, and the Economics Nobel Prize in 1978.
+Organization theorists
+Richard M. Cyert
+(PhD Columbia University 1948, economics) joined Carnegie in 1948,
+became Dean of GSIA in 1962 and president of Carnegie Mellon in 1972.
+Retired in 1990.
+Yale University
+1953, political science) joined Carnegie in 1953 out of graduate school, left in 1964 first for
+University of California, Irvine
+, then for Stanford University to help found the California tradition of organizational science.
+Oliver E. Williamson
+(PhD Carnegie 1963, economics) wrote his dissertation under Cyert on
+managerial slack, left in 1963 for UC Berkeley and later Wharton,
+received the 2009 economics Nobel Prize (shared with Elinor Ostrom) for
+pioneering transaction cost economics.
+Operations researchers and industrial engineers
+Abraham Charnes
+University of Illinois
+1947, mathematics) became a member of the GSIA founding team upon
+graduation in 1948. Joining up mostly with Cooper, they applied linear
+optimization to production and operations problems, somewhat apart from
+the Simon group. Left in 1955 for
+Purdue University
+Northwestern University
+, and ultimately settled at
+University of Texas
+(PhD Carnegie 1962, mathematical economics), considered the “father of the
+rational expectations
+movement”, at Carnegie from 1956-64 initially as a student, from 1959 as a professor, left for
+Michigan State University
+Indiana University
+after not having been offered tenure.
+Charles C. Holt
+(PhD University of Chicago 1955, economics) joined GSIA in 1956 from
+, became the forecast expert in the HMMS team, known for his
+exponential smoothing
+method developed with graduate student
+Peter R. Winters
+University of Wisconsin
+Charles P. Bonini
+(PhD Carnegie 1962, industrial engineering) at Carnegie as a graduate
+student from 1955 to 1959, joined Stanford University as junior faculty
+and immediately convinced Oliver Williamson to move in the other
+Highly influential books published by researchers of the Carnegie School include, in chronological order:
+Administrative Behavior
+(1947) by Herbert A. Simon.
+An Introduction to Linear Programming
+(1953) by Abraham Charnes, William W. Cooper & Alexander Henderson.
+(1957) by Herbert A. Simon.
+by James G. March and Herbert A. Simon.
+Planning Production, Inventory and Work Force
+(1960) by Charles A. Holt, Franco Modigliani, John F. Muth, and Herbert A. Simon.
+Management Models and Industrial Applications of Linear Programming
+(1961) by Abraham Charnes and William W. Cooper.
+Statistical Sampling for Accounting Information
+(1962) by Richard M. Cyert and H. Justin Davidson.
+A Behavioral Theory of the Firm
+(1963) by Richard M. Cyert and James G. March.
+The Relative Stability of Monetary Velocity and the Investment Multiplier
+and Franco Modigliani.
+The Carnegie Tech Management Game
+Kalman J. Cohen
+William R. Dill
+Alfred A. Kuehn
+Peter R. Winters
+Theory of the Firm: Resource Allocation in a Market Economy
+(1965) by Kalman J. Cohen and Richard M. Cyert.
+The Sciences of the Artificial
+(1969) by Herbert A. Simon.
+Human Problem Solving
+(1972) by Allen Newell and Herbert A. Simon.
+Bayesian Analysis and Uncertainty in Economic Theory
+(1987) by Richard M. Cyert and Morris H. DeGroot.
+Models of Business Cycles
+(1987) by Robert E. Lucas, jr.
+Decisions and Organizations
+(1989) by James G. March.
+In addition to the books, a number of articles authored or co-authored
+by members of the Carnegie school became foundational within their
+"A Linear Decision Rule for Production and Employment
+Scheduling" (1955) by Charles C. Holt, Franco Modigliani, and Herbert A.
+Management Science
+"Dynamic Programming Under Uncertainty with a Quadratic Criterion Function" (1956) by Herbert A. Simon,
+"Forecasting Seasonals and Trends by Exponentially Weighted Moving Averages" (1957) by Charles C. Holt,
+Office of Naval Research
+, reprint (2004)
+International Journal of Forecasting
+"Derivation of a Linear Decision Rule for Production and Employment"
+(1958) by Charles C. Holt, Franco Modigliani, and John F. Muth,
+Management Science
+"The Cost of Capital, Corporation Finance and the Theory of Investment" (1958) by Franco Modigliani and Merton H. Miller,
+American Economic Review
+"Forecasting Sales by Exponentially Weighted Moving Averages" (1960) by
+Peter R. Winters
+Management Science
+"Rational Expectations and the Theory of Price Movements" (1961) by John F. Muth,
+Oliver E. Williamson (1996). "Transaction cost economics and the Carnegie connection".
+J Econ Beh & Org
+31:2, pp. 149-155
+Esther-Mirjam Sent (1998).
+The evolving rationality of rational expectations : an assessment of Thomas Sargent's achievements
+Raymond Augustine Bauer, Kenneth J. Gergen (1968).
+The study of policy formation
+. National Planning Association. p.115.
+Jens Beckert, Milan Zafirovski (2006).
+International encyclopedia of economic sociology
+Anderson, Marc H.; Lemken, Russell K. (2019).
+Empirical Assessment of the Influence of March and Simon's
+Organizations: The Realized Contribution and Unfulfilled Promise of a
+Journal of Management Studies
+10.1111/joms.12527
+Quotations related to
+Carnegie School

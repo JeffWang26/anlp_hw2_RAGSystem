@@ -1,0 +1,91 @@
+Division of the School of Computer Science at Carnegie Mellon University
+Robotics Institute
+Matthew Johnson-Roberson
+Pittsburgh, Pennsylvania
+http://www.ri.cmu.edu/
+Robotics Institute (RI)
+is a division of the
+School of Computer Science
+Carnegie Mellon University
+.  A June 2014 article in
+Robotics Business Review
+magazine calls it "the world's best robotics research facility" and a "pacesetter in robotics research and education."
+The Robotics Institute focuses on bringing robotics into everyday
+activities. Its faculty members and graduate students examine a variety
+of fields, including space robotics, medical robotics, industrial
+systems, computer vision and artificial intelligence, and they develop a
+broad array of robotics systems and capabilities.
+Established in 1979 by
+the RI was the first robotics department at any U.S. university.
+In 1988, CMU became the first university in the world offering a Ph.D. in Robotics.
+In 2012, the faculty, staff, students and postdocs numbered over 500,
+and the RI annual budget exceeded $65M,
+making the RI one of the largest robotics research organizations in the world.
+The RI occupies facilities on the Carnegie Mellon main campus as well as in the
+and Hazelwood neighborhoods of Pittsburgh, totaling almost 200,000 sq.
+ft of indoor space and 40 acres of outdoor test facilities.
+National Robotics Engineering Center
+(NREC) was established in 1996 as the commercial arm of the RI, with
+the intention of applying robotic technology to commercial and defense
+applications. It has partnered with more than 300 companies such as
+, as well as with the
+In September 2015, the NREC secured a $5.5 million gift from the car transport company,
+, to support three robotics fellowships and research directed at developing safe,
+self-driving cars
+This donation was made roughly seven months after Uber poached 40 NREC
+scientists, including its director, Tony Stenz, and other key program
+leaders, while the two organizations closely collaborated on driverless
+Field Robotics Center
+(FRC) has developed a number of significant robots, including
+, which finished second and third in the
+2005 DARPA Grand Challenge
+, which won the
+2007 DARPA Grand Challenge
+Media coverage and awards
+Almost Human: Making Robots Think
+describes the development of robots at the Robotics Institute,
+particularly focusing on the developers and describing field testing in
+remote locations.
+The robot HERB was featured in the "Oreo Separator" video series.
+RI robots and researchers have been featured in the
+Scientific American Frontiers
+episode "Natural Born Robots"
+and in multiple NPR radio segments.
+The Advanced Robotic Laser Coating Removal System (ARLCRS) won a 2013
+gold award in the category of materials science processes.
+Notable faculty (current and past)
+Matthew Johnson-Roberson
+Sebastian Thrun
+David Touretzky
+Jessica Hodgins
+Field Robotics Center patents
+Edwards, John (6 June 2014).
+"Carnegie Mellon: The World's Premier Robotics Institute?"
+roboticsbusinessreview.com
+. Robotics Business Review
+"Robotics Institute: History of the Robotics Institute"
+. Archived from
+Robotics Institute: About the Robotics Institute
+May 9, 2008, at the
+Wayback Machine
+"The 10 Best Universities For Robotics In The US"
+Business Insider
+"Uber gives $5.5M to Carnegie Mellon for robotics fellowships"
+The Washington Times
+Ramsey, Mike; Macmillan, Douglas (31 May 2015).
+"Carnegie Mellon Reels After Uber Lures Away Researchers"
+The Wall Street Journal
+Gutkind, Lee (2006).
+Almost Human: Making Robots Think
+. New York: W.W. Norton.
+Knife-wielding robot HERB separates Oreo cookies
+"NATURAL BORN ROBOTS"- SHOW 1002, on season 10, episode 2"
+Scientific American Frontiers
+. Chedd-Angier Production Company. 1999–2000.
+from the original on 2006-01-01.
+Robot Receptionist Dishes Directions and Attitude
+A Hall of Fame for Robots
+Robot Road Test
+2013 Edison Award Winners
+Robotics Institute Official Website
+Travel Channel showcase of the RI
