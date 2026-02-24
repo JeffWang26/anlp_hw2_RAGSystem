@@ -58,7 +58,7 @@ def main():
     parser.add_argument(
         "--top-k",
         type=int,
-        default=5,
+        default=7,
         help="Number of documents to retrieve per query.",
     )
     parser.add_argument(

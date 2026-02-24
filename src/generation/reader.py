@@ -88,7 +88,8 @@ class GenerativeReader:
         self.model = AutoModelForCausalLM.from_pretrained(model_name, **load_kwargs)
 
     def _build_prompt(self, question: str, context: str) -> str:
-        return f"""Based on the following context, answer the question concisely.
+        return f"""Based on the following context, answer the question directly and concisely without any introductory phrases, explanations, or pleasantries. Do not output the reasoning steps, do not generate follow-up questions.
+        If the information is not provided in the context, output exactly 'Not found' and nothing else. 
 
 Context:
 {context}
@@ -96,6 +97,22 @@ Context:
 Question: {question}
 
 Answer:"""
+
+    # Phrases to strip from the start of model output (add more as needed)
+    ANSWER_PREFIXES_TO_STRIP = [
+        "Based on the context provided, ",
+        "Based on the context, ",
+        "According to the context, ",
+    ]
+
+    def _clean_answer(self, raw: str) -> str:
+        """Remove known preamble phrases from the model output."""
+        text = raw.strip()
+        for prefix in self.ANSWER_PREFIXES_TO_STRIP:
+            if text.startswith(prefix):
+                text = text[len(prefix):].strip()
+                break
+        return text
 
     def answer(
         self,
@@ -112,7 +129,7 @@ Answer:"""
             pad_token_id=self.tokenizer.eos_token_id,
         )
         generated = self.tokenizer.decode(outputs[0][inputs["input_ids"].shape[1]:], skip_special_tokens=True)
-        return generated.strip()
+        return self._clean_answer(generated)
 
 
 class SimpleReader:
