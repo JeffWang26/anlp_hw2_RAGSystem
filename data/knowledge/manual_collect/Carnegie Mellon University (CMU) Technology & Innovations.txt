@@ -1,11 +1,6 @@
 Andrew File System (AFS): The Andrew File System (AFS) is a distributed file system developed at Carnegie Mellon University in the 1980s. It was named after the university's founders, Andrew Carnegie and Andrew Mellon, and was designed to support a vast network of student computing.
-
 Deep Thought: Deep Thought was a chess-playing computer developed by researchers at Carnegie Mellon University in the late 1980s. It was the predecessor to IBM's Deep Blue, which eventually defeated world chess champion Garry Kasparov.
-
 Virtual Reality Pioneer: Ivan Sutherland, a pioneer in computer graphics who created the first head-mounted display system for virtual reality, was a professor at Carnegie Mellon University.
-
 NavLab: The NavLab project at Carnegie Mellon University, which began in 1984, was a groundbreaking research initiative that built some of the world's very first autonomous, computer-controlled vehicles.
-
 Libratus: Libratus is an artificial intelligence program developed at Carnegie Mellon University's School of Computer Science that made history by decisively beating top professional human players at No-Limit Texas Hold 'em poker.
-
 CubeRover: CubeRover is a class of lightweight, shoebox-sized planetary rovers developed by Astrobotic Technology in close partnership with students and researchers at Carnegie Mellon University, designed to make lunar exploration more accessible.

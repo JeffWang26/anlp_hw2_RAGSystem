@@ -91,7 +91,8 @@ class RAGPipeline:
         if self.closed_book:
             return self.reader.answer(question, "")
         results = self.retrieve(question)
-        context = "\n\n".join(doc for doc, _ in results)
+        # Separate chunks clearly so the reader treats them as distinct passages (reduces stitching)
+        context = "\n\n---\n\n".join(doc for doc, _ in results)
         return self.reader.answer(question, context)
 
     def run_on_queries(
